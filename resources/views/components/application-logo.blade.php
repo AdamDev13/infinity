@@ -1,0 +1,1 @@
+<img src="{{ asset('images/logo_green.png')  }}" style="max-width:320px;" alt="Infinity Logo">

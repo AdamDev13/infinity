@@ -1,0 +1,22 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+.file-uploads-preview{
+    height: 100px;
+}
+
+.file-uploads-preview li{
+    height: inherit;
+    width: 100px;
+}
+
+.file-uploads-preview li div{
+    height: inherit;
+    width: inherit;
+}
+
+.text-danger-dark{
+    color: red;
+}
